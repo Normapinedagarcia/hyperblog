@@ -1,13 +1,13 @@
 body 
 {
-    color: #333;
+    color: rgba(238, 22, 184, 0.333);
     text-align: left;
     font-family: cursive;
 }
 
 #cabecera
 {
-    background: #5f8fea;
+    background: #1048ef;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5); 
     color: aliceblue;
     font-weight: bold;
